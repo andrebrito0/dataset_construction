@@ -14,6 +14,7 @@ This repository will serve as the main aggregator of sources and datasets for th
 
 ## 2. Epidemiological Variables 
 _To confirm with INSA - data available and granularity_
+_Use of GitHub repository (covid19pt-data)[https://github.com/dssg-pt/covid19pt-data/blob/master/data_concelhos_new.csv]
 - **Total Confirmed Cases**: Cumulative case count
 - **Incidence Rate**: New cases per 100,000 population
 - **Prevalence Rate**: Proportion of the population infected
